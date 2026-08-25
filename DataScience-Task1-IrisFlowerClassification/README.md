@@ -40,7 +40,14 @@ Models are evaluated using:
 - Cross-validation
 - Confusion matrix
 - Model comparison
+### Performance
 
+| Metric | Score |
+|---|---:|
+| Accuracy | 1.00 |
+| Precision | 1.00 |
+| Recall | 1.00 |
+| F1-Score | 1.00 |
 ## 📈 Project Outputs
 
 ### Feature Distributions
